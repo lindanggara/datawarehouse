@@ -317,7 +317,7 @@ Seluruh target performa analitik berhasil tercapai dan divisualisasikan dalam da
 
 ---
 
-## Team
+## Pengembang 
 
 **Data Warehouse Project**  
 Politeknik Elektronika Negeri Surabaya (PENS)  
@@ -325,7 +325,7 @@ Program Studi Sains Data Terapan
 2026
 
 **Contributor:**
-- Linda Anggara
+- Linda Anggara Wati 
 
 ---
 
@@ -338,5 +338,4 @@ This project was developed for academic and learning purposes.
 ## Repository
 
 🔗 [GitHub Repository](https://github.com/lindanggara/datawarehouse)
-```
 
