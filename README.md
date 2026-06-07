@@ -69,7 +69,7 @@ datawarehouse/
 │   └── lgb_regressor.pkl
 │
 ├── scripts/
-│   ├── generate_better_data.py
+│   ├── generate_data.py
 │   ├── datamart.py
 │   └── dashboard.py
 │
@@ -273,7 +273,7 @@ pip install -r requirements.txt
 ### Generate Data
 
 ```bash
-python scripts/generate_better_data.py
+python scripts/generate_data.py
 ```
 
 ### ETL & Analytics
