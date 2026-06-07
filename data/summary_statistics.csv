@@ -1,0 +1,2 @@
+total_employees,total_projects,total_kpi_records,clusters_used,silhouette_score,fpc_score,regression_r2,regression_rmse,regression_method
+200,40,49245,2,0.5244766653108923,0.0,0.9349108996951342,4.183645152134281,LightGBM

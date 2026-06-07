@@ -1,0 +1,16 @@
+departemen,MAE,RMSE,MAPE,data_points,stasioner
+Operations,2.88,3.32,3.66,35,Ya
+Human Resources,2.7,3.49,3.88,35,Ya
+Legal,2.65,3.44,3.99,36,Ya
+IT,2.85,3.87,4.06,35,Ya
+Design,3.62,4.45,4.99,36,Ya
+Production,3.79,5.08,5.13,36,Ya
+Logistics,4.11,5.27,5.35,32,Ya
+Finance,3.97,4.74,5.51,36,Ya
+Customer Service,4.52,5.36,5.54,34,Ya
+Quality Assurance,4.13,4.89,5.8,36,Ya
+Research & Development,4.79,6.11,6.11,36,Ya
+Sales,4.38,4.99,7.33,29,Ya
+Marketing,5.25,6.78,7.49,35,Tidak
+Corporate Strategy,5.54,6.75,7.6,30,Ya
+Procurement,5.52,6.61,8.13,36,Ya

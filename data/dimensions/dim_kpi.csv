@@ -1,0 +1,16 @@
+kpi_id,kpi_name,kpi_category,kpi_target
+1,Ketepatan Waktu,Time Management,80.0
+2,Utilisasi Sumber Daya,Efficiency,80.0
+3,Efisiensi Biaya,Finance,82.0
+4,Kepuasan Pelanggan,Quality,85.0
+5,Kualitas Deliverable,Quality,85.0
+6,Penyelesaian Training,Development,75.0
+7,Tingkat Retensi,HR,88.0
+8,Produktivitas Tim,Performance,80.0
+9,Kehadiran,Attendance,90.0
+10,Inovasi,Innovation,72.0
+11,Kolaborasi,Teamwork,83.0
+12,Rekrutmen Tepat Waktu,HR,88.0
+13,Scope Creep,Project,78.0
+14,Bug Rate,Quality,85.0
+15,Deployment Sukses,Technical,82.0

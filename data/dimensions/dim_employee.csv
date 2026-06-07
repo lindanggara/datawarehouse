@@ -1,0 +1,201 @@
+employee_id,employee_name,gender,usia,rentang_usia,lama_bekerja_tahun,department_name,position_name,level_jabatan
+1,Hendra Pratama,M,38,30-40,9,Operations,HR Manager,Manager
+2,Nanda Nugroho,M,28,20-30,2,IT,Software Engineer,Staff
+3,Laura Setiawan,M,22,20-30,4,Procurement,Data Analyst,Staff
+4,Dina Rahayu,M,37,30-40,8,Operations,Project Manager,Manager
+5,Gita Susanto,F,45,40-50,15,Quality Assurance,Director,Director
+6,Agus Lestari,F,39,30-40,9,Procurement,Finance Manager,Manager
+7,Oscar Sanjaya,M,26,20-30,5,Operations,QA Engineer,Staff
+8,Zahra Wijaya,M,32,30-40,7,Quality Assurance,Marketing Manager,Manager
+9,Oky Putra,M,28,20-30,5,Finance,Procurement Officer,Staff
+10,Laura Kusuma,M,33,30-40,6,Quality Assurance,Senior Software Engineer,Senior Staff
+11,Eko Setiawan,M,28,20-30,2,Research & Development,Marketing Specialist,Staff
+12,Joko Hartono,F,33,30-40,8,Finance,HR Manager,Manager
+13,Zahra Kusuma,F,34,30-40,8,Finance,Legal Advisor,Senior Staff
+14,Kartika Utama,M,44,40-50,15,Design,Director,Director
+15,Rian Permata,F,31,30-40,2,IT,UI/UX Designer,Staff
+16,Kartika Firmansyah,M,31,30-40,5,IT,Finance Analyst,Staff
+17,Ivan Maharani,F,37,30-40,7,Marketing,Project Manager,Manager
+18,Oky Rahayu,M,23,20-30,2,Legal,Software Engineer,Staff
+19,Putri Sulistyo,F,25,20-30,3,Human Resources,QA Engineer,Staff
+20,Galih Permata,F,30,20-30,4,Finance,Finance Analyst,Staff
+21,Umar Hidayat,F,24,20-30,4,Quality Assurance,DevOps Engineer,Staff
+22,Budi Sulistyo,M,37,30-40,10,Procurement,HR Manager,Manager
+23,Eko Santoso,M,24,20-30,2,Quality Assurance,QA Engineer,Staff
+24,Marco Sulistyo,F,37,30-40,8,Legal,HR Manager,Manager
+25,Dina Susanto,F,27,20-30,4,Design,Data Analyst,Staff
+26,Gita Santoso,M,31,30-40,5,Design,Marketing Specialist,Staff
+27,Indah Nugroho,F,23,20-30,4,Finance,Finance Analyst,Staff
+28,Dewi Putra,M,31,30-40,1,Procurement,Software Engineer,Staff
+29,Galih Setiawan,M,35,30-40,6,Design,Senior Software Engineer,Senior Staff
+30,Tono Nugroho,M,34,30-40,8,Procurement,IT Manager,Manager
+31,Kevin Santoso,M,31,30-40,5,Quality Assurance,Senior Software Engineer,Senior Staff
+32,Dewi Ardiansyah,M,41,40-50,13,Human Resources,Senior Project Manager,Senior Manager
+33,Hendra Sulistyo,M,23,20-30,1,Marketing,R&D Analyst,Staff
+34,Marco Ardiansyah,M,25,20-30,2,Quality Assurance,Finance Analyst,Staff
+35,Indah Utama,F,23,20-30,5,Operations,DevOps Engineer,Staff
+36,Marco Anggraini,M,25,20-30,5,Human Resources,Procurement Officer,Staff
+37,Putri Susanto,F,43,40-50,10,Operations,Senior Project Manager,Senior Manager
+38,Julia Pratama,M,32,30-40,8,Procurement,Finance Manager,Manager
+39,Laura Saputra,M,35,30-40,9,Operations,Finance Manager,Manager
+40,Ivan Wahyudi,M,32,30-40,7,Operations,Senior Software Engineer,Senior Staff
+41,Wawan Sanjaya,M,22,20-30,4,Finance,Finance Analyst,Staff
+42,Andi Anggraini,M,37,30-40,8,Human Resources,Project Manager,Manager
+43,Dina Saputra,F,39,30-40,6,IT,Finance Manager,Manager
+44,Putri Utama,F,36,30-40,6,Human Resources,Marketing Manager,Manager
+45,Chandra Pratama,F,30,20-30,2,Finance,Marketing Specialist,Staff
+46,Gita Hidayat,M,32,30-40,10,IT,IT Manager,Manager
+47,Oscar Pratama,F,25,20-30,2,Marketing,Business Analyst,Staff
+48,Ivan Hidayat,M,25,20-30,2,Procurement,Marketing Specialist,Staff
+49,Citra Anggraini,F,25,20-30,1,Research & Development,Data Analyst,Staff
+50,Hendra Hidayat,F,27,20-30,1,Research & Development,HR Generalist,Staff
+51,Miko Susanto,F,25,20-30,2,Design,QA Engineer,Staff
+52,Umar Ardiansyah,F,23,20-30,5,Operations,Data Analyst,Staff
+53,Chandra Utama,F,42,40-50,8,Design,Senior Project Manager,Senior Manager
+54,Nina Nugroho,F,42,40-50,12,Research & Development,Director,Director
+55,Galih Wibowo,F,31,30-40,3,Finance,QA Engineer,Staff
+56,Umar Kusuma,M,34,30-40,9,Marketing,Project Manager,Manager
+57,Fitri Nugroho,F,29,20-30,5,Research & Development,HR Generalist,Staff
+58,Andi Sanjaya,M,28,20-30,4,Human Resources,Data Analyst,Staff
+59,Putri Anggraini,F,35,30-40,10,Legal,Project Manager,Manager
+60,Erik Maharani,F,29,20-30,1,Procurement,Data Analyst,Staff
+61,Putri Putra,F,31,30-40,7,Operations,Legal Advisor,Senior Staff
+62,Tono Kusuma,F,23,20-30,3,Operations,Marketing Specialist,Staff
+63,Oscar Hidayat,M,24,20-30,3,Finance,HR Generalist,Staff
+64,Chandra Santoso,F,31,30-40,4,Marketing,Data Analyst,Staff
+65,Agus Wahyudi,F,38,30-40,8,IT,Marketing Manager,Manager
+66,Kevin Maharani,M,32,30-40,7,Marketing,IT Manager,Manager
+67,Wawan Utama,F,41,40-50,9,Design,Senior Project Manager,Senior Manager
+68,Bella Sulistyo,M,23,20-30,1,Research & Development,Software Engineer,Staff
+69,Dewi Hartono,M,29,20-30,2,Design,Marketing Specialist,Staff
+70,Chandra Hartono,M,33,30-40,8,Human Resources,IT Manager,Manager
+71,Eko Sanjaya,M,30,20-30,5,IT,Software Engineer,Staff
+72,Indah Wahyudi,M,28,20-30,5,Human Resources,R&D Analyst,Staff
+73,Oky Wibowo,F,44,40-50,13,Human Resources,Senior Project Manager,Senior Manager
+74,Agus Hidayat,M,29,20-30,4,Marketing,QA Engineer,Staff
+75,Marco Santoso,F,22,20-30,1,Quality Assurance,Procurement Officer,Staff
+76,Wawan Pratama,M,32,30-40,7,Design,IT Manager,Manager
+77,Joko Nugroho,F,31,30-40,6,Finance,Legal Advisor,Senior Staff
+78,Nanda Hartono,M,37,30-40,8,Quality Assurance,HR Manager,Manager
+79,Prima Utama,M,24,20-30,3,Design,Marketing Specialist,Staff
+80,Yuli Hartono,F,26,20-30,5,Quality Assurance,Finance Analyst,Staff
+81,Putri Wibowo,M,36,30-40,9,Design,IT Manager,Manager
+82,Budi Lestari,F,33,30-40,8,Operations,HR Manager,Manager
+83,Zahra Wahyudi,F,29,20-30,6,Procurement,Legal Advisor,Senior Staff
+84,Fitri Hartono,M,23,20-30,5,Operations,Finance Analyst,Staff
+85,Kevin Sanjaya,M,30,20-30,4,Finance,HR Generalist,Staff
+86,Oky Purnama,F,28,20-30,1,Human Resources,HR Generalist,Staff
+87,Kevin Saputra,M,30,20-30,6,Operations,Senior Software Engineer,Senior Staff
+88,Hani Anggraini,F,31,30-40,3,IT,R&D Analyst,Staff
+89,Dewi Hartono,M,27,20-30,2,Legal,UI/UX Designer,Staff
+90,Dewi Saputra,F,28,20-30,5,Finance,R&D Analyst,Staff
+91,Oky Maharani,F,37,30-40,9,Research & Development,HR Manager,Manager
+92,Umar Sulistyo,M,28,20-30,6,Research & Development,Senior Software Engineer,Senior Staff
+93,Fajar Wijaya,M,40,30-40,9,Marketing,Senior Project Manager,Senior Manager
+94,Oky Wahyudi,M,29,20-30,6,Operations,Senior Software Engineer,Senior Staff
+95,Oscar Hartono,F,27,20-30,5,Research & Development,HR Generalist,Staff
+96,Sari Saputra,M,28,20-30,6,Human Resources,Senior Software Engineer,Senior Staff
+97,Erik Anggraini,F,37,30-40,10,Legal,Finance Manager,Manager
+98,Fajar Maharani,F,28,20-30,1,IT,Data Analyst,Staff
+99,Marco Sulistyo,M,26,20-30,4,IT,Finance Analyst,Staff
+100,Erik Hartono,F,24,20-30,4,Finance,R&D Analyst,Staff
+101,Gilang Novitasari,M,25,20-30,2,IT,Finance Analyst,Staff
+102,"Cawisadi Wijaya, M.Pd",M,22,20-30,1,Research & Development,Data Analyst,Staff
+103,Cut Tania Budiyanto,M,30,20-30,4,Procurement,HR Generalist,Staff
+104,Jayeng Pudjiastuti,M,48,40-50,13,Production,Senior Project Manager,Senior Manager
+105,Belinda Safitri,F,28,20-30,1,Human Resources,QA Engineer,Staff
+106,R. Elon Maryati,F,35,30-40,8,Production,Senior Software Engineer,Senior Staff
+107,Rahayu Suartini,F,56,50-60,24,Logistics,Director,Director
+108,Sutan Indra Agustina,M,37,30-40,11,Production,Finance Manager,Manager
+109,KH. Taswir Sitorus,F,46,40-50,11,Finance,Marketing Manager,Manager
+110,"Yuliana Hariyah, M.Kom.",M,42,40-50,10,Research & Development,Senior Project Manager,Senior Manager
+111,"Ir. Daryani Oktaviani, S.Pd",M,22,20-30,2,Sales,Marketing Specialist,Staff
+112,"KH. Mumpuni Usada, S.Ked",F,27,20-30,2,Human Resources,HR Generalist,Staff
+113,"Eman Wahyuni, S.IP",F,24,20-30,2,Finance,Finance Analyst,Staff
+114,Jabal Novitasari,F,28,20-30,3,Corporate Strategy,R&D Analyst,Staff
+115,Paramita Wibisono,M,29,20-30,5,Production,Senior Software Engineer,Senior Staff
+116,"R. Talia Puspita, S.Farm",M,29,20-30,5,Design,Business Analyst,Staff
+117,"Ida Puspasari, S.E.I",M,26,20-30,3,Sales,Procurement Officer,Staff
+118,"Dr. Prayoga Najmudin, M.TI.",F,30,20-30,2,IT,Finance Analyst,Staff
+119,Cut Humaira Kurniawan,M,40,30-40,8,Finance,Marketing Manager,Manager
+120,Saiful Hidayanto,M,44,40-50,11,Corporate Strategy,Marketing Manager,Manager
+121,"Cut Rahayu Novitasari, M.TI.",M,37,30-40,10,Customer Service,IT Manager,Manager
+122,"Ajiman Sitompul, S.Pd",M,37,30-40,7,Operations,Legal Advisor,Senior Staff
+123,"Dirja Ardianto, M.TI.",M,47,40-50,13,Customer Service,Finance Manager,Manager
+124,Hana Santoso,M,27,20-30,1,Marketing,QA Engineer,Staff
+125,Joko Najmudin,M,22,20-30,2,IT,QA Engineer,Staff
+126,"Belinda Dabukke, S.Pt",M,41,40-50,10,Operations,IT Manager,Manager
+127,Cemeti Wastuti,M,48,40-50,11,Production,IT Manager,Manager
+128,"Ir. Jaswadi Nababan, S.Farm",F,29,20-30,1,Design,Data Analyst,Staff
+129,Dr. Timbul Megantara,M,23,20-30,2,Design,Marketing Specialist,Staff
+130,Asmadi Maulana,M,43,40-50,15,Design,Senior Project Manager,Senior Manager
+131,Ir. Asirwada Rajata,M,22,20-30,1,IT,Procurement Officer,Staff
+132,"Hardi Yuniar, M.TI.",F,22,20-30,2,Marketing,Business Analyst,Staff
+133,Ismail Saefullah,F,30,20-30,4,Operations,Data Analyst,Staff
+134,Cakrabirawa Wasita,M,22,20-30,3,Research & Development,Procurement Officer,Staff
+135,Puti Endah Dabukke,M,29,20-30,5,IT,Legal Advisor,Senior Staff
+136,Jumari Pradipta,M,25,20-30,5,Design,UI/UX Designer,Staff
+137,Jayeng Mayasari,F,30,20-30,3,Sales,R&D Analyst,Staff
+138,"Syahrini Usamah, M.M.",F,28,20-30,2,Marketing,Finance Analyst,Staff
+139,"Laila Lestari, S.H.",F,22,20-30,4,Corporate Strategy,QA Engineer,Staff
+140,Yoga Farida,M,24,20-30,3,Procurement,Finance Analyst,Staff
+141,Kambali Padmasari,M,26,20-30,5,Legal,Procurement Officer,Staff
+142,Gantar Latupono,F,24,20-30,3,Corporate Strategy,UI/UX Designer,Staff
+143,"Dt. Lanjar Kurniawan, S.H.",M,41,40-50,13,Operations,Finance Manager,Manager
+144,"R. Kania Nurdiyanti, S.Gz",F,43,40-50,8,Procurement,IT Manager,Manager
+145,Maimunah Melani,F,27,20-30,2,IT,Software Engineer,Staff
+146,Kasim Hidayanto,F,30,20-30,1,Procurement,Data Analyst,Staff
+147,R. Prayitna Safitri,M,39,30-40,14,Logistics,Marketing Manager,Manager
+148,Laswi Novitasari,M,41,40-50,11,Corporate Strategy,Marketing Manager,Manager
+149,"H. Tasdik Nasyiah, S.Pt",F,42,40-50,10,Research & Development,Project Manager,Manager
+150,Unjani Jailani,F,25,20-30,3,Production,Data Analyst,Staff
+151,Tirtayasa Wahyudin,F,35,30-40,5,Logistics,Senior Software Engineer,Senior Staff
+152,T. Simon Gunarto,F,42,40-50,8,Logistics,HR Manager,Manager
+153,Adiarja Widiastuti,F,26,20-30,3,Logistics,QA Engineer,Staff
+154,"Cut Kasiyah Natsir, S.Gz",F,26,20-30,2,IT,UI/UX Designer,Staff
+155,"Cornelia Nababan, M.Pd",F,28,20-30,5,Quality Assurance,Marketing Specialist,Staff
+156,"Amalia Haryanti, M.Pd",M,34,30-40,4,Operations,Senior Software Engineer,Senior Staff
+157,Lamar Pertiwi,M,23,20-30,3,Quality Assurance,Data Analyst,Staff
+158,Purwadi Simbolon,M,44,40-50,14,Customer Service,Finance Manager,Manager
+159,Hj. Halima Agustina,M,28,20-30,2,Marketing,Data Analyst,Staff
+160,"Ir. Zulaikha Saptono, S.Psi",M,41,40-50,14,Operations,Finance Manager,Manager
+161,Jane Mulyani,F,25,20-30,5,Legal,DevOps Engineer,Staff
+162,Ciaobella Usada,M,38,30-40,8,Operations,Legal Advisor,Senior Staff
+163,"Puti Ida Hastuti, S.I.Kom",F,24,20-30,1,Marketing,HR Generalist,Staff
+164,Tantri Mayasari,M,25,20-30,4,Legal,Data Analyst,Staff
+165,"Cengkir Najmudin, S.Pt",M,28,20-30,2,Corporate Strategy,UI/UX Designer,Staff
+166,Agus Prasetya,F,25,20-30,1,IT,Procurement Officer,Staff
+167,"Dagel Habibi, S.E.I",F,30,20-30,4,Production,DevOps Engineer,Staff
+168,Dodo Saragih,F,25,20-30,3,Legal,Finance Analyst,Staff
+169,Harjaya Yulianti,F,26,20-30,2,Legal,QA Engineer,Staff
+170,Maman Hidayanto,M,42,40-50,14,Finance,Project Manager,Manager
+171,"drg. Tari Waskita, M.M.",M,27,20-30,5,Design,Data Analyst,Staff
+172,"Yuliana Uyainah, S.I.Kom",F,22,20-30,5,Design,R&D Analyst,Staff
+173,"Sutan Pangestu Gunarto, S.E.",F,28,20-30,5,Production,Business Analyst,Staff
+174,Raisa Uyainah,M,43,40-50,14,Legal,HR Manager,Manager
+175,"T. Eko Halim, S.I.Kom",F,49,40-50,10,Customer Service,Senior Project Manager,Senior Manager
+176,Salimah Haryanti,M,24,20-30,4,Human Resources,Data Analyst,Staff
+177,Sutan Darmana Padmasari,F,27,20-30,3,Marketing,DevOps Engineer,Staff
+178,Rizki Hutasoit,M,30,20-30,1,Legal,Software Engineer,Staff
+179,"Hartaka Maulana, S.Sos",M,25,20-30,2,Production,Software Engineer,Staff
+180,"drg. Bakda Nugroho, S.Pd",M,25,20-30,4,Legal,UI/UX Designer,Staff
+181,Dina Hardiansyah,M,44,40-50,9,Production,Senior Project Manager,Senior Manager
+182,Taswir Nainggolan,F,23,20-30,5,Design,HR Generalist,Staff
+183,Nrima Budiman,M,38,30-40,8,Customer Service,Finance Manager,Manager
+184,Drs. Hardi Rahimah,F,38,30-40,6,Human Resources,Legal Advisor,Senior Staff
+185,KH. Bahuraksa Kusmawati,F,27,20-30,4,Human Resources,Data Analyst,Staff
+186,"Jayadi Pranowo, S.E.I",F,29,20-30,4,Research & Development,Procurement Officer,Staff
+187,dr. Martani Sudiati,F,37,30-40,12,Quality Assurance,HR Manager,Manager
+188,Ulva Waluyo,F,29,20-30,3,Quality Assurance,Software Engineer,Staff
+189,Radit Nasyidah,F,26,20-30,5,Quality Assurance,Finance Analyst,Staff
+190,Dr. Tiara Adriansyah,M,29,20-30,5,Customer Service,Data Analyst,Staff
+191,"Farhunnisa Palastri, S.E.",F,23,20-30,3,Legal,Software Engineer,Staff
+192,Umi Mandala,F,27,20-30,4,Sales,R&D Analyst,Staff
+193,Dr. Pardi Wibisono,F,26,20-30,3,Quality Assurance,DevOps Engineer,Staff
+194,Mutia Hutasoit,M,30,20-30,2,Quality Assurance,UI/UX Designer,Staff
+195,Ami Hariyah,F,30,20-30,5,Customer Service,R&D Analyst,Staff
+196,"Cut Ophelia Ramadan, S.I.Kom",M,44,40-50,8,Quality Assurance,Senior Project Manager,Senior Manager
+197,Edison Dabukke,M,26,20-30,2,IT,Procurement Officer,Staff
+198,Lili Astuti,M,50,40-50,15,Research & Development,Finance Manager,Manager
+199,Devi Fujiati,F,38,30-40,9,Logistics,IT Manager,Manager
+200,"Mila Hassanah, M.Ak",M,44,40-50,9,Finance,Project Manager,Manager

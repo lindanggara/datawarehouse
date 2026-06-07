@@ -1,0 +1,2 @@
+total_employees,total_projects,total_kpi_records,clusters_used,silhouette_score,fpc_score,regression_r2,regression_rmse,dept_forecasted,clustering_method,regression_method
+200,40,49245,2,0.5245,0.0,0.9349,4.1836,15,BIRCH,LightGBM

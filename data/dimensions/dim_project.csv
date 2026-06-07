@@ -1,0 +1,41 @@
+project_id,project_name,project_status,project_budget,durasi_hari
+1,Sistem ERP Perusahaan,In Progress,500000000.0,356
+2,Portal HR Digital,Completed,300000000.0,242
+3,Infrastruktur Jaringan,Completed,200000000.0,167
+4,Aplikasi Mobile Karyawan,In Progress,150000000.0,274
+5,Migrasi Cloud,In Progress,400000000.0,259
+6,Dashboard BI,Completed,120000000.0,152
+7,Sistem Payroll,Completed,180000000.0,193
+8,Keamanan Siber,In Progress,250000000.0,291
+9,Training Management System,In Progress,90000000.0,244
+10,Sistem Absensi Digital,Completed,75000000.0,203
+11,E-Learning Platform,In Progress,130000000.0,303
+12,Sistem Procurement,In Progress,170000000.0,229
+13,CRM Internal,Completed,220000000.0,225
+14,Monitoring Server,Completed,80000000.0,138
+15,Digitalisasi Arsip,In Progress,60000000.0,214
+16,Sistem Inventori,In Progress,110000000.0,199
+17,Integrasi API,In Progress,95000000.0,211
+18,Business Continuity Plan,Not Started,50000000.0,211
+19,Upgrade Database,Not Started,140000000.0,211
+20,Sistem Pelaporan Keuangan,Not Started,190000000.0,241
+21,Project 21: Realigned intangible adapter,Cancelled,375514309.0,335
+22,Project 22: Stand-alone system-worthy function,Completed,466447298.0,297
+23,Project 23: Exclusive global instruction set,Cancelled,291868109.0,256
+24,Project 24: Multi-channeled scalable interface,On Hold,365962025.0,249
+25,Project 25: Managed hybrid array,On Hold,355280620.0,347
+26,Project 26: Adaptive bifurcated hardware,Active,377293102.0,80
+27,Project 27: Future-proofed next generation solution,Completed,385820825.0,138
+28,Project 28: Persevering asymmetric Graphical User Interface,On Hold,404564658.0,71
+29,Project 29: Multi-layered global architecture,Completed,178776637.0,118
+30,Project 30: Enhanced fault-tolerant secured line,Active,134037811.0,31
+31,Project 31: Cross-group mobile hub,Cancelled,291862333.0,334
+32,Project 32: Enterprise-wide encompassing protocol,Cancelled,206368642.0,46
+33,Project 33: Open-source methodical matrix,Completed,204675132.0,174
+34,Project 34: Front-line demand-driven knowledge user,Cancelled,88214342.0,149
+35,Project 35: Multi-layered logistical knowledgebase,On Hold,472961951.0,350
+36,Project 36: Switchable stable toolset,Completed,278244747.0,88
+37,Project 37: Progressive actuating matrix,Completed,397696244.0,106
+38,Project 38: Robust 6thgeneration synergy,On Hold,493794225.0,102
+39,Project 39: Extended scalable model,Active,82017929.0,114
+40,Project 40: Versatile encompassing secured line,On Hold,369461833.0,321
