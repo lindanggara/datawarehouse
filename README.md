@@ -17,6 +17,24 @@ Proyek ini menerapkan tiga pendekatan analitik:
 
 ---
 
+## Dashboard Preview
+
+### Landing Page
+![Landing Page](data/outputs/landing_page.png)
+
+### Dashboard Home
+![Dashboard Home](data/outputs/dashboard_home.png)
+
+### Clustering Analysis
+![Clustering Analysis](data/outputs/clustering_analysis.png)
+
+### Forecasting Analysis
+![Forecasting Analysis](data/outputs/forecasting_analysis.png)
+
+> *Screenshot diambil dari Streamlit dashboard yang berjalan di localhost.*
+
+---
+
 ## Objectives
 
 * Membangun data warehouse dari sumber data MySQL ke PostgreSQL.
@@ -108,7 +126,7 @@ Memuat hasil transformasi ke PostgreSQL `hr_dwh`.
 
 ### 1. Employee Clustering
 
-**Algorithm:** K-Means
+**Algorithm:** BIRCH (Best K = 2)
 
 **Features**
 
@@ -207,6 +225,12 @@ Memuat hasil transformasi ke PostgreSQL `hr_dwh`.
 * CSV export
 * Statistical summary
 
+### Knowledge Base
+
+* Complete documentation
+* FAQ
+* Tips & tricks
+
 ---
 
 ## Installation
@@ -214,26 +238,26 @@ Memuat hasil transformasi ke PostgreSQL `hr_dwh`.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/username/hr-analytics-dwh.git
-cd hr-analytics-dwh
+git clone https://github.com/lindanggara/datawarehouse.git
+cd datawarehouse
 ```
 
 ### Create Virtual Environment
 
 ```bash
-python -m venv venv
+python -m venv hr_env
 ```
 
 Windows:
 
 ```bash
-venv\Scripts\activate
+hr_env\Scripts\activate
 ```
 
 Linux/Mac:
 
 ```bash
-source venv/bin/activate
+source hr_env/bin/activate
 ```
 
 ### Install Dependencies
@@ -283,11 +307,11 @@ streamlit run scripts/dashboard.py
 
 ## Project Results
 
-| Analysis    | Result                  |
-| ----------- | ----------------------- |
-| Clustering  | Silhouette Score 0.5245 |
-| Forecasting | Average MAPE 5.64%      |
-| Regression  | R² Score 0.9349         |
+| Analysis    | Result                  | Status    |
+| ----------- | ----------------------- | --------- |
+| Clustering  | Silhouette Score 0.5245 | ✅ Tercapai |
+| Forecasting | Average MAPE 5.64%      | ✅ Tercapai |
+| Regression  | R² Score 0.9349         | ✅ Tercapai |
 
 Seluruh target performa analitik berhasil tercapai dan divisualisasikan dalam dashboard interaktif untuk mendukung pengambilan keputusan pada bidang Human Resource.
 
@@ -295,13 +319,24 @@ Seluruh target performa analitik berhasil tercapai dan divisualisasikan dalam da
 
 ## Team
 
-**Data Warehouse Project**
-Politeknik Elektronika Negeri Surabaya (PENS)
-Program Studi Sains Data Terapan
+**Data Warehouse Project**  
+Politeknik Elektronika Negeri Surabaya (PENS)  
+Program Studi Sains Data Terapan  
 2026
+
+**Contributor:**
+- Linda Anggara
 
 ---
 
 ## License
 
 This project was developed for academic and learning purposes.
+
+---
+
+## Repository
+
+🔗 [GitHub Repository](https://github.com/lindanggara/datawarehouse)
+```
+
