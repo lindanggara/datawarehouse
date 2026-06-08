@@ -6,40 +6,16 @@ import plotly.graph_objects as go
 import os
 from datetime import datetime
 import numpy as np
-from google import genai
-from dotenv import load_dotenv
-
-load_dotenv()
 
 st.markdown('<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">', unsafe_allow_html=True)
 
 # ============================================================
-# CONFIGURE GEMINI AI
+# CONFIGURE AI - DINONAKTIFKAN
 # ============================================================
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-
-if GEMINI_API_KEY and GEMINI_API_KEY != "YOUR_API_KEY_HERE":
-    try:
-        client = genai.Client(api_key=GEMINI_API_KEY)
-        AI_AVAILABLE = True
-    except Exception as e:
-        AI_AVAILABLE = False
-else:
-    AI_AVAILABLE = False
+AI_AVAILABLE = False
 
 def get_ai_insight(prompt):
-    if not AI_AVAILABLE:
-        return "AI Insight tidak tersedia."
-    try:
-        response = client.models.generate_content(
-            model="gemini-2.0-flash",
-            contents=prompt
-        )
-        return response.text
-    except Exception as e:
-        if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
-            return "⚠️ Kuota AI Insight habis. Coba lagi nanti atau upgrade API key."
-        return f"Error: {str(e)[:100]}"
+    return "AI Insight tidak tersedia."
 
 # ============================================================
 # LANDING PAGE STATE
@@ -1135,13 +1111,9 @@ with st.sidebar:
     
     st.markdown("---")
     
-    show_ai = st.checkbox("Tampilkan AI Insight", value=AI_AVAILABLE)
-    
-    if AI_AVAILABLE:
-        st.markdown('<div style="color: white; background: rgba(255,255,255,0.15); padding: 10px 14px; border-radius: 10px; font-size: 14px;">✅ AI Insight siap</div>', unsafe_allow_html=True)
-    else:
-        st.markdown('<div style="color: white; background: rgba(255,255,255,0.15); padding: 10px 14px; border-radius: 10px; font-size: 14px;">⚠️ AI tidak tersedia</div>', unsafe_allow_html=True)
-    
+    show_ai = False
+    st.markdown('<div style="color: white; background: rgba(255,255,255,0.15); padding: 10px 14px; border-radius: 10px; font-size: 14px;">⚙️ Insight berbasis data</div>', unsafe_allow_html=True)
+
     st.markdown("---")
     st.caption("© 2026 HR Analytics")
     st.caption("Data Warehouse Project")
