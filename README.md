@@ -1,7 +1,7 @@
 # HR Analytics Data Warehouse
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hr-datamart.streamlit.app)
