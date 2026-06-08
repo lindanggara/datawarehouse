@@ -4,7 +4,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hr-datamart.streamlit.app)
+[![Streamlit](https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-brightgreen)](https://hr-datamart.streamlit.app)
 
 ## Overview
 
