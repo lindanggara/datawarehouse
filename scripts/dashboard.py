@@ -535,9 +535,9 @@ if not st.session_state.show_dashboard:
         <div class="lp-feature-card"><div class="lp-feature-icon">📊</div><div class="lp-feature-title">Monitoring KPI</div><div class="lp-feature-desc">Pantau performa setiap departemen secara real-time dengan visualisasi interaktif.</div></div>
         <div class="lp-feature-card"><div class="lp-feature-icon">👥</div><div class="lp-feature-title">Clustering Karyawan</div><div class="lp-feature-desc">Kelompokkan karyawan berdasarkan karakteristik untuk strategi pengembangan.</div></div>
         <div class="lp-feature-card"><div class="lp-feature-icon">📈</div><div class="lp-feature-title">Forecasting</div><div class="lp-feature-desc">Prediksi performa departemen ke depan untuk perencanaan strategis.</div></div>
-        <div class="lp-feature-card"><div class="lp-feature-icon">🤖</div><div class="lp-feature-title">AI Insights</div><div class="lp-feature-desc">Wawasan cerdas dari data HR menggunakan Gemini AI.</div></div>
         <div class="lp-feature-card"><div class="lp-feature-icon">🎯</div><div class="lp-feature-title">Feature Importance</div><div class="lp-feature-desc">Identifikasi faktor terpenting yang mempengaruhi performa karyawan.</div></div>
-        <div class="lp-feature-card"><div class="lp-feature-icon">📋</div><div class="lp-feature-title">Ekspor Data</div><div class="lp-feature-desc">Ekspor data mentah untuk analisis lebih lanjut.</div></div>
+        <div class="lp-feature-card"><div class="lp-feature-icon">📋</div><div class="lp-feature-title">Data Tables</div><div class="lp-feature-desc">Lihat dan ekspor data mentah untuk analisis lebih lanjut.</div></div>
+        <div class="lp-feature-card"><div class="lp-feature-icon">💡</div><div class="lp-feature-title">Auto Insights</div><div class="lp-feature-desc">Insight otomatis dari data untuk mendukung keputusan HR.</div></div>
     </div>
     """, unsafe_allow_html=True)
 
