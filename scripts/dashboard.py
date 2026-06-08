@@ -623,13 +623,13 @@ if 'menu' not in st.session_state:
 @st.cache_data(ttl=3600)
 def load_data():
     files = {
-        'cluster_summary': '../data/clustering/cluster_summary.csv',
-        'dept_performance': '../data/clustering/dept_performance.csv',
-        'forecast_data': '../data/forecasting/forecast_data.csv',
-        'dashboard_summary': '../data/dashboard_summary.csv',
-        'feature_importance': '../data/clustering/feature_importance.csv',
-        'feature_importance_reg': '../data/regression/feature_importance_regression.csv',
-        'forecast_metrics': '../data/forecasting/forecasting_metrics.csv'
+        'cluster_summary': 'data/clustering/cluster_summary.csv',
+        'dept_performance': 'data/clustering/dept_performance.csv',
+        'forecast_data': 'data/forecasting/forecast_data.csv',
+        'dashboard_summary': 'data/dashboard_summary.csv',
+        'feature_importance': 'data/clustering/feature_importance.csv',
+        'feature_importance_reg': 'data/regression/feature_importance_regression.csv',
+        'forecast_metrics': 'data/forecasting/forecasting_metrics.csv'
     }
     
     data = {}
