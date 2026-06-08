@@ -4,6 +4,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hr-datamart.streamlit.app)
 
 ## Overview
 
@@ -316,7 +317,20 @@ streamlit run scripts/dashboard.py
 Seluruh target performa analitik berhasil tercapai dan divisualisasikan dalam dashboard interaktif untuk mendukung pengambilan keputusan pada bidang Human Resource.
 
 ---
+## 🌐 Live Demo
 
+Dashboard telah dideploy ke Streamlit Cloud dan dapat diakses secara online:
+
+🔗 **[HR Analytics Dashboard - Live Demo](https://hr-datamart.streamlit.app)**
+
+> *Dashboard dapat diakses dari mana saja tanpa perlu installasi.*
+
+---
+
+## Repository
+
+🔗 [GitHub Repository](https://github.com/lindanggara/datawarehouse)
+---
 ## Pengembang 
 
 **Data Warehouse Project**  
@@ -332,10 +346,4 @@ Program Studi Sains Data Terapan
 ## License
 
 This project was developed for academic and learning purposes.
-
----
-
-## Repository
-
-🔗 [GitHub Repository](https://github.com/lindanggara/datawarehouse)
 
